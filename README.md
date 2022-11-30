@@ -1,4 +1,4 @@
-### Hi there, I'm Matteo, a Full Stack Web Developer student from Sardinia, Italy! 💻👨‍💻👋
+### Hi there, I'm Matteo, a Front End Web Developer student from Sardinia, Italy! 💻👨‍💻👋
 
 <!--
 **matteomarrass/matteomarrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
