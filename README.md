@@ -5,11 +5,11 @@
 -->
 Here you can find a little summary:
 
-- 🔭 I’m currently working on a project for a charity called Good Causes (fantasy name) and a rebuild of an Italian website that sells musical instruments!
+- 🔭 I’m currently working on a project for a B&B called I Bastioni (fantasy name)!
 - 🌱 I’m currently learning Bootstrap, Javascript and React!
 - 👯 I’m looking to collaborate on all my projects!
 - 🤔 I’m looking for help with React and Javascript
-- 📫 How to reach me: matteommarras@gmail.com
+- 📫 How to reach me: marrasmatteo0@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: I look >= 8 years older than my real age!
+- ⚡ Fun fact: I look >= 5 years older than my real age!
 - 🎸 Hobby: play guitar, read books and listen to music
