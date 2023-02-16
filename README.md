@@ -5,7 +5,7 @@
 -->
 Here you can find a little summary:
 
-- 🔭 I’m currently working on a project for a B&B called I Bastioni (fantasy name)!
+- 🔭 I’m currently working on a project for a B&B called I Bastioni (fantasy name) and a quiz game!
 - 🌱 I’m currently learning Bootstrap, Javascript and React!
 - 👯 I’m looking to collaborate on all my projects!
 - 🤔 I’m looking for help with React and Javascript
