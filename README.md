@@ -11,5 +11,4 @@ Here you can find a little summary:
 - 🤔 I’m looking for help with React and Javascript
 - 📫 How to reach me: marrasmatteo0@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: I look >= 5 years older than my real age!
 - 🎸 Hobby: play guitar, read books and listen to music
