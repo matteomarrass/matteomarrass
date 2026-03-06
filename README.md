@@ -7,5 +7,4 @@ Here you can find a little summary:
 - 👨‍💻 Web Designer Freelance
 - 🌱 Keep learning!
 - 👯 I’m looking to collaborate on all my projects!
-- 📫 How to reach me: contact@matteomarras.it
 - 🎸 Hobby: play guitar, read books and listen to music
